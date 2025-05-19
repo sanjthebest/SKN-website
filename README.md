@@ -13,6 +13,6 @@ Features:
 Technologies Used:
 
 - Frontend: HTML, CSS, JavaScript
-- Backend: Node.js (if applicable, replace this with the backend technology used)
-- Email Integration: JavaScript API (or specify the tool/library used for sending emails)
+- Backend: Node.js 
+- Email Integration: JavaScript API 
 - Version Control: Git
